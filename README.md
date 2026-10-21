@@ -14,7 +14,7 @@ utilize the flexible layout to seamlessly generate and copy secure passwords wit
 1. Clone the repository:
 
     ```bash
-    git clone hhttps://github.com/InesZenkri/Psswordgen.git
+    git clone https://github.com/InesZenkri/Passwordgen.git
     ```
 
 2. Open `index.html` in your browser.
